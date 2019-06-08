@@ -1,0 +1,16 @@
+D:\Project\Angular_WebAPI\DAL\bin\Debug\DAL.dll
+D:\Project\Angular_WebAPI\DAL\bin\Debug\DAL.pdb
+D:\Project\Angular_WebAPI\DAL\bin\Debug\BO.dll
+D:\Project\Angular_WebAPI\DAL\bin\Debug\Utility.dll
+D:\Project\Angular_WebAPI\DAL\bin\Debug\System.Web.Http.dll
+D:\Project\Angular_WebAPI\DAL\bin\Debug\System.Net.Http.Formatting.dll
+D:\Project\Angular_WebAPI\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Project\Angular_WebAPI\DAL\bin\Debug\BO.pdb
+D:\Project\Angular_WebAPI\DAL\bin\Debug\Utility.pdb
+D:\Project\Angular_WebAPI\DAL\bin\Debug\Utility.dll.config
+D:\Project\Angular_WebAPI\DAL\bin\Debug\System.Net.Http.Formatting.xml
+D:\Project\Angular_WebAPI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Project\Angular_WebAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project\Angular_WebAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project\Angular_WebAPI\DAL\obj\Debug\DAL.dll
+D:\Project\Angular_WebAPI\DAL\obj\Debug\DAL.pdb
