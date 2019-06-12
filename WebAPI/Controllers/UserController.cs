@@ -51,8 +51,11 @@ namespace WebAPI.Controllers
             {
                 try
                 {
-                    user.Tokan = Utilities.GenerateToken(user.Email,user.Password, Dns.GetHostEntry(Dns.GetHostName()).HostName, DateTime.Now, Utilities.GenerateRandomNumber());
-                    UserRepository.AddUpdateUser(user);
+                    if (user.Id > 0)
+                    {
+                        user.Tokan = Utilities.GenerateToken(user.Email, user.Password, Dns.GetHostEntry(Dns.GetHostName()).HostName, DateTime.Now, Utilities.GenerateRandomNumber());
+                    }
+                        UserRepository.AddUpdateUser(user);
                 }
                 catch (Exception ex)
                 {

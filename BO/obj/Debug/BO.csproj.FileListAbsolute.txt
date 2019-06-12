@@ -12,3 +12,17 @@ D:\Project\Angular_WebAPI\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
 D:\Project\Angular_WebAPI\BO\obj\Debug\BO.csproj.CopyComplete
 D:\Project\Angular_WebAPI\BO\obj\Debug\BO.dll
 D:\Project\Angular_WebAPI\BO\obj\Debug\BO.pdb
+D:\DemoStack-WebAPI\BO\bin\Debug\BO.dll
+D:\DemoStack-WebAPI\BO\bin\Debug\BO.pdb
+D:\DemoStack-WebAPI\BO\bin\Debug\Utility.dll
+D:\DemoStack-WebAPI\BO\bin\Debug\System.Web.Http.dll
+D:\DemoStack-WebAPI\BO\bin\Debug\System.Net.Http.Formatting.dll
+D:\DemoStack-WebAPI\BO\bin\Debug\Newtonsoft.Json.dll
+D:\DemoStack-WebAPI\BO\bin\Debug\Utility.pdb
+D:\DemoStack-WebAPI\BO\bin\Debug\Utility.dll.config
+D:\DemoStack-WebAPI\BO\bin\Debug\System.Net.Http.Formatting.xml
+D:\DemoStack-WebAPI\BO\obj\Debug\BO.csprojAssemblyReference.cache
+D:\DemoStack-WebAPI\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+D:\DemoStack-WebAPI\BO\obj\Debug\BO.csproj.CopyComplete
+D:\DemoStack-WebAPI\BO\obj\Debug\BO.dll
+D:\DemoStack-WebAPI\BO\obj\Debug\BO.pdb
